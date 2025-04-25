@@ -14,16 +14,15 @@
 ### 📫 Contact Me
 
 - 📧 Email: **ericmamaniramirez13@gmail.com**
-- 🌐 Portfolio: [ericmamaniramirez13.github.io/portfolio](https://ericmamaniramirez13.github.io/Portfolio2025/)
 - 💼 LinkedIn: [linkedin.com/in/EricMamani](https://www.linkedin.com/in/EricMamani)
-- 📱 Phone: (801) 404-9051
 
 ---
 
 ### 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-Brigham Young University - Idaho (07/2024)  
+Brigham Young University - Idaho Graduated 07/2024
+
 _Related Coursework:_
 - Data Structures and Algorithms
 - Object-Oriented Programming (Java, JavaScript, Python)
