@@ -57,7 +57,7 @@ _Related Coursework:_
 - Enhanced scalability and reliability with cloud integration (99.9% uptime)
 
 ---
-
+<!--
 ### 🚀 Featured Projects
 
 - 📱 **[Math Mobile App](#)** — Android app to help students practice and learn math. Built with Java & Android Studio.
@@ -75,7 +75,7 @@ _Related Coursework:_
 - **Soft Skills:** Communication, Critical Thinking, Teamwork, Fast Learning
 
 ---
-
+-->
 ### 📈 GitHub Stats
 
 <p align="center">
