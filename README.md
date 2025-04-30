@@ -4,9 +4,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=635BFF&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B8FF&center=true&vCenter=true&width=435&lines=React+%7C+Java+%7C+Python+Developer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=435&lines=Math+Nerd+%7C+Problem+Solver" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF61C3&center=true&vCenter=true&width=435&lines=Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,14 +18,7 @@
 ### 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-Brigham Young University - Idaho Graduated 07/2024
-
-_Related Coursework:_
-- Data Structures and Algorithms
-- Object-Oriented Programming (Java, JavaScript, Python)
-- Full-Stack Development
-- Relational Databases
-- Machine Learning Fundamentals
+Brigham Young University - Idaho (Graduated 07/2024)
 
 ---
 
@@ -42,22 +32,15 @@ _Related Coursework:_
 
 **Software Engineer Intern – General Motors**  
 📍 Austin, TX (May 2024 - Oct 2024)
-- Achieved 95% test coverage with Java + TestNG
-- Improved user satisfaction by 15% with full-stack React + Python solutions
-- Contributed in Agile teams with sprint planning, stand-ups, and code reviews
 
 **Software Engineer Intern – Amazon.com**  
 📍 Tempe, AZ (May 2023 - Jul 2023)
-- Built React/Angular UI for customer deal validation
-- Enhanced backend logic to speed up the validation process by 20%
 
 **DevOps Engineer Intern – Mr. Cooper Group**  
 📍 Coppell, TX (Jun 2022 - Aug 2022)
-- Optimized infrastructure automation and boosted deployment speed
-- Enhanced scalability and reliability with cloud integration (99.9% uptime)
 
 ---
-<!--
+
 ### 🚀 Featured Projects
 
 - 📱 **[Math Mobile App](#)** — Android app to help students practice and learn math. Built with Java & Android Studio.
@@ -65,7 +48,7 @@ _Related Coursework:_
 - 💡 **[Personal Portfolio](https://ericmamaniramirez13.github.io/Portfolio2025/)** — Interactive portfolio showcasing projects, resume, and contact form.
 
 ---
-
+<!--
 ### 🛠️ Technical Skills
 
 - **Languages:** Python, Java, JavaScript, TypeScript, SQL, C++, C#, Swift, GO  
@@ -95,10 +78,3 @@ _Related Coursework:_
 </p>
 
 ---
-<!-- Not sure if I want to show this...
-### 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ericmamaniramirez13&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
--->
