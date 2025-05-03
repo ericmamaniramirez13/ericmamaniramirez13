@@ -1,6 +1,6 @@
 <!-- Banner or Title -->
 <h1 align="center">Hi 👋, I'm Eric Mamani</h1>
-<h3 align="center">Software Engineer | Math Nerd | Building Clean Code & Cool Solutions</h3>
+<h3 align="center">Software Engineer | Math Nerd</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=635BFF&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" />
