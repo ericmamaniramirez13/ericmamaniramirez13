@@ -45,7 +45,7 @@ Brigham Young University - Idaho (Graduated 07/2024)
 
 - 📱 **[Math Mobile App](#)** — Android app to help students practice and learn math. Built with Java & Android Studio.
 - 🤖 **[Text Generator](#)** — Machine Learning LSTM model that generates context-aware text.
-- 💡 **[Personal Portfolio](https://ericmamaniramirez13.github.io/Portfolio2025/)** — Interactive portfolio showcasing projects, resume, and contact form.
+- 💡 **[Personal Portfolio](https://ericmamaniramirez13.github.io/Portfolio/)** — Interactive portfolio showcasing projects, resume, and contact form.
 
 ---
 <!--
