@@ -28,7 +28,7 @@ Brigham Young University - Idaho (Graduated 07/2024)
 📍 Scottsdale, AZ (Offer Extended for Fall 2025)
 
 **Software Engineer Intern – Amazon.com**  
-📍 Irvine, CA (Offer Extended for Summer 2025)
+📍 Irvine, CA (May 2025 - Present)
 
 **Software Engineer Intern – General Motors**  
 📍 Austin, TX (May 2024 - Oct 2024)
