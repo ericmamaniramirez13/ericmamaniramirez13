@@ -40,14 +40,6 @@ Brigham Young University - Idaho (Graduated 07/2024)
 📍 Coppell, TX (Jun 2022 - Aug 2022)
 
 ---
-
-### 🚀 Featured Projects
-
-- 📱 **[Math Mobile App](#)** — Android app to help students practice and learn math. Built with Java & Android Studio.
-- 🤖 **[Text Generator](#)** — Machine Learning LSTM model that generates context-aware text.
-- 💡 **[Personal Portfolio](https://ericmamaniramirez13.github.io/Portfolio/)** — Interactive portfolio showcasing projects, resume, and contact form.
-
----
 <!--
 ### 🛠️ Technical Skills
 
@@ -61,13 +53,10 @@ Brigham Young University - Idaho (Graduated 07/2024)
 -->
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericmamaniramirez13&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmamaniramirez13&layout=compact&theme=radical" />
-</p>
+<section align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericmamaniramirez13&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmamaniramirez13&layout=compact&theme=radical" height="150px"/>
+</section>
 
 ---
 
