@@ -40,17 +40,7 @@ Brigham Young University - Idaho (Graduated 07/2024)
 📍 Coppell, TX (Jun 2022 - Aug 2022)
 
 ---
-<!--
-### 🛠️ Technical Skills
 
-- **Languages:** Python, Java, JavaScript, TypeScript, SQL, C++, C#, Swift, GO  
-- **Frameworks:** React, Angular, Node.js, Selenium, PyTorch  
-- **Cloud & DevOps:** AWS, GCP, Azure, Docker, REST APIs, Jenkins  
-- **Tools:** VS Code, IntelliJ, Swagger, GitHub, Jira, Power BI  
-- **Soft Skills:** Communication, Critical Thinking, Teamwork, Fast Learning
-
----
--->
 ### 📈 GitHub Stats
 
 <section align="center">
