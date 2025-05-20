@@ -52,5 +52,5 @@ Brigham Young University - Idaho (Graduated 07/2024)
 ### 🔥 Streaks & Activity
 
 <section align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ericmamaniramirez13&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ericmamaniramirez13&theme=radical" />
 </section>
