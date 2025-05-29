@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, this is Eric Mamani</h1>
+<h1 align="center">Hi 👋, this is Eric</h1>
 <h3 align="center">Software Engineer | Math Nerd</h3>
 
 <div align="center">
