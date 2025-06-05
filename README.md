@@ -16,7 +16,7 @@
 
 ### 🎓 Education
 
-**Bachelor of Science in Mathematics**
+**Bachelor of Science in Mathematics**  
 Arizona State University (Anticipated 05/2026)
 
 **Bachelor of Science in Computer Science**  
