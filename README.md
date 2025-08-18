@@ -26,9 +26,6 @@ Brigham Young University - Idaho (Graduated 12/2024)
 
 ### 💼 Work Experience
 
-**Software Engineer Intern – PayPal**  
-📍 Scottsdale, AZ (Offer Extended for Fall 2025)
-
 **Software Engineer Intern – Amazon.com**  
 📍 Irvine, CA (April 2025 - Present)
 
