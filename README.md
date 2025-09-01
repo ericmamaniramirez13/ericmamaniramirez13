@@ -16,8 +16,8 @@
 
 ### 🎓 Education
 
-**Bachelor of Science in Mathematics**  
-Arizona State University (Anticipated 12/2025)
+**Bachelor of Science in Computer Science**  
+Arizona State University (Anticipated 12/2026)
 
 **Bachelor of Science in Computer Science**  
 Brigham Young University - Idaho (Graduated 12/2024)
