@@ -9,7 +9,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: **ericmamaniramirez13@gmail.com**
+- 📧 Email: **mam20009@byui.edu**
 - 💼 LinkedIn: [linkedin.com/in/EricMamani](https://www.linkedin.com/in/EricMamani)
 
 ---
