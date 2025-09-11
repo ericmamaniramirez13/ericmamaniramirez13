@@ -37,21 +37,21 @@ Brigham Young University - Idaho (Graduated 12/2024)
 
 **DevOps Engineer Intern – Mr. Cooper Group**  
 📍 Coppell, TX (Jun 2022 - Aug 2022)
-
+<!--
 ---
 
 ### 📈 GitHub Stats
 
 <section align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericmamaniramirez13&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmamaniramirez13&layout=compact&theme=radical" height="150px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=ericmamaniramirez13&show_icons=true&theme=radical" height="150px"/>
 </section>
-
+-->
 ---
 
 ### 🔥 Streaks & Activity
 
 <section align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ericmamaniramirez13&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmamaniramirez13&layout=compact&theme=radical"/>
 </section>
 Last updated: <!-- last-update --> 2025-09-10 08:18:16 UTC
