@@ -16,7 +16,7 @@
 
 ### 🎓 Education
 
-**Bachelor of Science in Computer Science**  
+**Master of Science in Computer Science**  
 Arizona State University (Anticipated 12/2026)
 
 **Bachelor of Science in Computer Science**  
