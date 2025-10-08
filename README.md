@@ -11,6 +11,7 @@
 
 - 📧 Email: **mam20009@byui.edu**
 - 💼 LinkedIn: [linkedin.com/in/EricMamani](https://www.linkedin.com/in/EricMamani)
+- Portfolio: [My Portfolio](https://ericmamaniramirez13.github.io/Portfolio/)
 
 ---
 
