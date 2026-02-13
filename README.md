@@ -55,4 +55,4 @@ Brigham Young University - Idaho (Graduated 12/2024)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ericmamaniramirez13&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmamaniramirez13&layout=compact&theme=radical"/>
 </section>
-Last updated: <!-- last-update --> 2026-02-12 08:37:15 UTC
+Last updated: <!-- last-update --> 2026-02-13 08:34:48 UTC
